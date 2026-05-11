@@ -49,21 +49,21 @@ Engineering Student | Electronics | Cybersecurity | Programming
 
 ---
 
-## 📌 Featured Projects
+# 📌 Featured Projects
 
-### 🔹 Digital Logic Projects
+## 🔹 Digital Logic Projects
 Projects using:
 - NAND / NOR implementation
 - Breadboard circuits
 - IC 74LS00 series
 
-### 🔹 Python Automation Tools
+## 🔹 Python Automation Tools
 Scripts for:
 - File organization
 - Automation
 - CLI tools
 
-### 🔹 Cybersecurity Learning Projects
+## 🔹 Cybersecurity Learning Projects
 - Linux practice
 - Networking
 - Security experiments
@@ -73,27 +73,27 @@ Scripts for:
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammedMokhtar-tech&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohammedMokhtar-tech&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMokhtar-tech&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohammedMokhtar-tech&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedMokhtar-tech&theme=tokyonight"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=MohammedMokhtar-tech&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 - GitHub:
   https://github.com/MohammedMokhtar-tech
 
 ---
 
-## ⚡ Fun Fact
+# ⚡ Fun Fact
 
 I enjoy building electronics experiments and turning theory into real projects.
 
