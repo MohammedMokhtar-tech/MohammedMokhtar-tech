@@ -30,9 +30,7 @@ Engineering Student | Electronics | Cybersecurity | Programming
 
 ### 💻 Programming
 - Python
-- C / C++
-- JavaScript
-- Bash
+-  C++
 
 ### 🛡️ Cybersecurity & Linux
 - Linux (Manjaro)
