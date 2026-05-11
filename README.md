@@ -1,9 +1,13 @@
-د<h1 align="center">Hi 👋, I'm Mohammed Mokhtar</h1>
-<h3 align="center">Engineering Student | Electronics | Cybersecurity | Programming</h3>
+<h1 align="center">Hi 👋, I'm Mohammed Mokhtar</h1>
+
+<h3 align="center">
+Engineering Student | Electronics | Cybersecurity | Programming
+</h3>
 
 ---
 
 ## 🚀 About Me
+
 - 🎓 Engineering Student
 - ⚡ Interested in Electronics & Digital Logic Design
 - 🛡️ Learning Cybersecurity & Linux
@@ -12,19 +16,31 @@
 
 ---
 
+## 🧠 Currently Learning
+
+- Cybersecurity
+- Embedded Systems
+- Digital Electronics
+- Linux Automation
+- Signal Processing
+
+---
+
 ## 🛠️ Tech Stack
 
-### Programming
+### 💻 Programming
 - Python
-- C++
+- C / C++
+- JavaScript
+- Bash
 
-### Cybersecurity & Linux
+### 🛡️ Cybersecurity & Linux
 - Linux (Manjaro)
 - Networking Basics
 - Web Security
 - Automation
 
-### Electronics
+### ⚡ Electronics
 - Digital Electronics
 - Logic Gates
 - Function Generator
@@ -54,23 +70,35 @@ Scripts for:
 
 ---
 
-## 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohammedMokhtar-tech&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohammedMokhtar-tech&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedMokhtar-tech&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedMokhtar-tech&layout=compact&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=MohammedMokhtar-tech&theme=tokyonight"/>
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/MohammedMokhtar-tech
+- GitHub:
+  https://github.com/MohammedMokhtar-tech
 
 ---
 
 ## ⚡ Fun Fact
+
 I enjoy building electronics experiments and turning theory into real projects.
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile ⭐
+</p>
